@@ -3,7 +3,6 @@
 include_once 'viaje.php';
 include_once 'pasajero.php';
 include_once 'Responsable.php';
-
 function opcionesInternas()
 {
 
